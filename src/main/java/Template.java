@@ -28,7 +28,9 @@ public class Template {
 
     public void templateParser(){
         Scanner sc = new Scanner(System.in);
-    if (sc.hasNext(TemplateGenerator.getFieldStart()))
+    if (sc.hasNext(TemplateGenerator.getFieldStart())){
+
+    }
 
       // return templates;
 }
